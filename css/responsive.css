@@ -26,7 +26,7 @@
 /* xs */
 @media (max-width: 767px) {
 	body {
-		font-size: 14px;
+	font-size: 24px;
 	}
 	#home-slider .caption h1 {
 		font-size: 40px;
@@ -181,4 +181,3 @@
 		float: none !important;
 	}
 }
-
